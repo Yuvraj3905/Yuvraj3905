@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yuvraj3905
-- 🌱 I’m currently learning Java and Html
-- 💞️ I’m looking to collaborate on Python and Java
+- 🌱 I’m currently learning C++ 
+- 💞️ I’m looking to collaborate on Html, Css, Python and Java
 - 📫 How to reach me gmail:-yuvraj0807.be20@chitkara.edu.in
 
 <!---
