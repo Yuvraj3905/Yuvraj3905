@@ -19,10 +19,7 @@
 
 <p align="center">
 <!-- <img width="88%" src="https://activity-graph.herokuapp.com/graph?username=Yuvraj3905&theme=react-dark&hide_border=true"> -->
-<img width="88%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ssahibsingh&theme=react-dark&hide_border=true">
-<!-- <img width="88%" src="https://github-readme-activity-graph.Yuvraj3905.repl.co/graph?username=ssahibsingh&theme=react-dark&hide_border=true"> -->
+<img width="88%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Yuvraj3905&theme=react-dark&hide_border=true">
+<!-- <img width="88%" src="https://github-readme-activity-graph.Yuvraj3905.repl.co/graph?username=Yuvraj3905&theme=react-dark&hide_border=true"> -->
 <img width="40%" src="https://github-readme-stats-Yuvraj3905.vercel.app/api/top-langs/?username=Yuvraj3905&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&exclude_repo=Jekyll-Default-Website&border_radius=10&bg_color=0D1117" alt="Yuvraj3905" /> 
-<img width="48%" src="https://github-readme-stats-Yuvraj3905.vercel.app/api?username=Yuvraj3905&theme=react&hide_border=true&include_all_commits=true&count_private=true&line_height=30&show_icons=true&custom_title=Github%20Stats&border_radius=10&bg_color=0D1117" alt="Yuvraj3905" />
-<img width="48%" src="https://streak-stats.demolab.com/?user=Yuvraj3905&theme=react&hide_border=true&background=0D1117" alt="Yuvraj3905" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvraj3905&" alt="yuvraj3905" /></p>
