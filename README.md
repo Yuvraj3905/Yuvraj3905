@@ -5,6 +5,10 @@
 <h1 align="center">Hi, I'm Yuvraj Singh 👋
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yuvraj3905&label=Profile%20views&color=1c87ca&style=flat" alt="Yuvraj3905" /> </p>
+<!-- Sankes Eating My Repo -->
+<!-- <div align="center">
+    <img src="https://raw.githubusercontent.com/tanyarajhans/Actions/8c98d54e553ad39cc96a021fe1f07e5905b6a387/github-contribution-grid-snake.svg" alt="Snakes Eating My Repo">
+</div> -->
 
 <h2>About Me🧑🏼‍💻</h2>
 
@@ -51,5 +55,20 @@
 
 </p>
 
-<br>
+<!-- ### ✍️ Random Dev Quote -->
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+
+<!-- Github cat animation -->
+<div align="center">
+    <a href="https://github.com/HoneyTyagii">
+      <img src="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
+    </a>
+</div>
+
+<!-- Github Cat Image -->
+<!-- <h4 align="center">
+    <a href="https://github.com/HoneyTyagii">
+      <img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg">
+    </a>
+</h4>  -->
 
