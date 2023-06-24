@@ -1,5 +1,5 @@
 <meta name="title" content="Yuvraj Singh">
-<meta name="description" content="Hi, I'm Yuvraj Singh. 🎓 I am currently pursuing my Bachelor's in Information Technology 🌱 I’m currently learning DSA 📫 Reach me at yuvraj202001@gmail.com">
+<meta name="description" content="Hi, I'm Yuvraj Singh. 🎓 I am currently pursuing my Bachelor's in Computer Science 🌱 I’m currently learning DSA 📫 Reach me at yuvraj202001@gmail.com">
 <meta name="keyword" content="Yuvraj Singh, Yuvraj, Singh, Yuvraj Singh Github, Github, Chitkara,Chitkara University Github">
 
 <h1 align="center">Hi, I'm Yuvraj Singh 👋
