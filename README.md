@@ -13,7 +13,7 @@
 <h2>About Me🧑🏼‍💻</h2>
 
 <ul type="none">
-    <li>🎓 I am currently pursuing my <strong>Bachelor's in Information Technology</strong></li>
+    <li>🎓 I am currently pursuing my <strong>Bachelor's in Computer Science</strong></li>
     <li>📫 Reach me  at <strong>yuvraj202001@gmail.com</strong></li>
     <li>🔭 I’m currently working on MERN Stack Technology</li>
 </ul>
