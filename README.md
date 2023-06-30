@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Yuvraj Singh 👋
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yuvraj3905&label=Profile%20views&color=1c87ca&style=flat" alt="Yuvraj3905" /> </p>
-<!-- Sankes Eating My Repo -->
+<!-- Sankes Eating My Repos -->
 <!-- <div align="center">
     <img src="https://raw.githubusercontent.com/tanyarajhans/Actions/8c98d54e553ad39cc96a021fe1f07e5905b6a387/github-contribution-grid-snake.svg" alt="Snakes Eating My Repo">
 </div> -->
