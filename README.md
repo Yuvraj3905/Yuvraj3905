@@ -11,7 +11,8 @@
     <img src="https://raw.githubusercontent.com/tanyarajhans/Actions/8c98d54e553ad39cc96a021fe1f07e5905b6a387/github-contribution-grid-snake.svg" alt="Snakes Eating My Repo">
 </div>  -->
 
-<h2>About Me🧑🏼‍💻</h2>
+<h2>About Me🧑🏼‍💻</h2>  
+
 
 <ul type="none">
     <li>🎓 I am currently pursuing my <strong>Bachelor's in Computer Science</strong></li>
