@@ -1,7 +1,6 @@
  <meta name="title" content="Yuvraj Singh">
 <meta name="description" content="Hi, I'm Yuvraj Singh. 🎓 I am currently pursuing my Bachelor's in Computer Science 🌱 I’m currently learning DSA 📫 Reach me at yuvraj202001@gmail.com">
 <meta name="keyword" content="Yuvraj Singh, Yuvraj, Singh, Yuvraj Singh Github, Github, Chitkara,Chitkara University Github">
-
 <h1 align="center">Hi, I'm Yuvraj Singh 👋
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yuvraj3905&label=Profile%20views&color=1c87ca&style=flat" alt="Yuvraj3905" /> </p>
