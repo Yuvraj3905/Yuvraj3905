@@ -9,9 +9,9 @@
 
 
 <ul type="none">
-    <li>🎓 I am currently pursuing my <strong>Bachelor's in Computer Science</strong></li>
+    <li>🎓 I am currently busy <strong>Solving Problems</strong></li>
     <li>📫 Reach me  at <strong>yuvraj202001@gmail.com</strong></li>
-    <li>🔭 I’m currently working on MERN Stack Technology</li>
+    <!-- <li>🔭 I’m currently working on MERN Stack Technology</li> -->
 </ul>
 
 <h3 align="left">Connect with me:</h3>
