@@ -34,27 +34,27 @@
     <a href="https://github.com/Yuvraj3905?tab=repositories">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj3905&theme=tokyonight_duo"/>
     </a>
-    <a href="https://github.com/Yuvraj3905?tab=repositories">
+   <!-- <a href="https://github.com/Yuvraj3905?tab=repositories">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Yuvraj3905&theme=github_dark&show_icons=true" />
-    </a>
+    </a> -->
   </div>
 
   
 <br><br><br><br>
 <br><br><br><br>
 
-  <div align=center>
+ <!-- <div align=center>
     <a href="https://github.com/Yuvraj3905?tab=repositories">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj3905&layout=compact&langs_count=10&theme=github_dark">
     </a>
-  </div>
+  </div> -->
   
-  <br>
+  
 </p>
 
 
 <!-- ### ✍️ Random Dev Quote -->
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) --> 
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
 <!-- Github cat  animation -->
 <div align="center">
