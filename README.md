@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Yuvraj+Singh;AI+Product+Engineer;Building+with+LLMs+%26+Agents;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yuvraj+Singh;AI+Product+Engineer;Building+with+LLMs+%26+Agents;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -35,29 +35,6 @@ I specialize in the modern AI stack, moving beyond basic web dev into vector sea
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yuvraj3905&theme=flat&no-frame=true&margin-w=15" />
-  </a>
-</div>
-
----
-
-### 📊 Coding Stats (Fixed)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj3905&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj3905&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj3905&theme=react&hide_border=true&background=0D1117&ring=336699&currStreakLabel=336699" alt="streak graph" />
-</div>
-
----
 
 ### 🤝 Connect with me
 
