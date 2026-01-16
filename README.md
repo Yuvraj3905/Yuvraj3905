@@ -1,72 +1,84 @@
-<meta name="title" content="Yuvraj Singh">
-<meta name="description" content="Hi, I'm Yuvraj Singh. 🎓 I am currently pursuing my Bachelor's in Computer Science 🌱 I’m currently learning DSA 📫 Reach me at yuvraj202001@gmail.com">
-<meta name="keyword" content="Yuvraj Singh, Yuvraj, Singh, Yuvraj Singh Github, Github, Chitkara,Chitkara University Github">
-<h1 align="center">Hi, I'm Yuvraj Singh 👋
-</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yuvraj3905&label=Profile%20views&color=1c87ca&style=flat" alt="Yuvraj3905" /> </p>
+<h1 align="center">Hi, I'm Yuvraj Singh 👋</h1>
+<h3 align="center">AI Product Engineer | GenAI Developer | Full Stack Builder</h3>
 
-<h2>About Me🧑🏼‍💻</h2>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yuvraj3905&label=Profile%20views&color=blueviolet&style=flat" alt="Yuvraj3905" />
+</p>
 
+---
 
-<ul type="none">
-    <li>🎓 I am currently busy <strong>Solving Problems</strong></li>
-    <li>📫 Reach me  at <strong>yuvraj202001@gmail.com</strong></li>
-    <!-- <li>🔭 I’m currently working on MERN Stack Technology</li> -->
-</ul>
+### 🤖 About Me
 
-<h3 align="left">Connect with me:</h3>
+I sit at the intersection of **Software Engineering** and **Artificial Intelligence**. I don't just train models; I build robust, scalable applications that leverage LLMs to solve real-world problems.
 
+- 🧠 **Focus:** Building AI Agents, RAG pipelines, and Fine-tuning LLMs.
+- 🏗️ **Architecture:** Transforming raw models into usable products using Next.js and FastAPI.
+- 🎓 **Currently:** Deep diving into Vector Databases and Agentic Workflows.
+- 📫 **Reach me:** yuvraj202001@gmail.com
 
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yuvraj_kharoud19) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj3905) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yuvraj20S)
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ The AI & Engineering Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I use a blend of modern web frameworks and AI orchestration tools.
 
-<!-- STATUS  -->
-<h2 align="center">⚡ Stats ⚡</h2>
+**🧠 AI & LLM Orchestration**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-121212?style=for-the-badge&logo=llamaindex&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+</p>
+
+**🐍 Core Logic & Data Science**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+**🌐 Product Engineering (Full Stack)**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### ⚡ GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Yuvraj3905">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj3905&theme=tokyonight_duo&hide_border=true" alt="streak stats"/>
+  </a>
+</div>
 
 <br>
 
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/Yuvraj3905?tab=repositories">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj3905&theme=tokyonight_duo"/>
-    </a>
-   <!-- <a href="https://github.com/Yuvraj3905?tab=repositories">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Yuvraj3905&theme=github_dark&show_icons=true" />
-    </a> -->
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj3905&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj3905&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+</div>
 
-  
-<br><br><br><br>
-<br><br><br><br>
+---
 
- <!-- <div align=center>
-    <a href="https://github.com/Yuvraj3905?tab=repositories">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj3905&layout=compact&langs_count=10&theme=github_dark">
-    </a>
-  </div> -->
-  
-  
+### 🤝 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/yuvraj3905">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/yuvraj20S">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 </p>
 
-
-<!-- ### ✍️ Random Dev Quote -->
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
-
-<!-- Github cat  animation -->
-<div align="center">
-    <a href="https://github.com/HoneyTyagii">
-      <img src="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
-    </a>
-</div> 
-
-<!-- Github Cat Image -->
-<!-- <h4 align="center">
-    <a href="https://github.com/HoneyTyagii">
-      <img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg">
-    </a>
-</h4>  -->
-
+<br>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
