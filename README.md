@@ -51,6 +51,4 @@ I specialize in the modern AI stack, moving beyond basic web dev into vector sea
 </div>
 
 <br>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
+
